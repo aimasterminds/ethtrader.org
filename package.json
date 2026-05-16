@@ -1,0 +1,23 @@
+{
+  "name": "ethtrader-org",
+  "version": "1.0.0",
+  "description": "Ethereum Research, Market Intelligence, and Tools",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimasterminds/ethtrader.org.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimasterminds/ethtrader.org/issues"
+  },
+  "homepage": "https://github.com/aimasterminds/ethtrader.org#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
